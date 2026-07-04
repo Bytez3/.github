@@ -1,6 +1,6 @@
 <div align="center">
 
-![Bytez3 Banner](https://github.com/Bytez3/.github/blob/main/Template%202.png)
+![Bytez3 Banner](https://pbs.twimg.com/profile_banners/263249640/1760770521/1500x500)
 
 <br/>
 
